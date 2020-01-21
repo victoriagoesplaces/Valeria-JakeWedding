@@ -1,3 +1,11 @@
 .freebirdFormviewerViewFooterEmbeddedDisclaimer {
     display: none!important;
 } 
+
+.form.freebirdFormviewerViewNavigationPasswordWarning {
+    display: none !important;
+}
+
+.form.freebirdFormviewerViewFooterEmbeddedBackground {
+    display: none !important;
+}
